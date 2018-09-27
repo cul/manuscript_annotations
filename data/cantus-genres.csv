@@ -1,0 +1,79 @@
+Genre,Description,Mass_Office
+A,Antiphon,Mass/Office
+ACC,Ad accedentes (Old Hispanic),Old Hispanic
+ACCV,Verse for Ad accedentes (Old Hispanic),Old Hispanic
+Ag,Agnus dei,Mass
+Al,Alleluia,Mass
+ALL,Alleluiaticum (Old Hispanic),Old Hispanic
+ALLV,Verse for the Alleluiaticum,Old Hispanic
+AlV,Alleluia verse,Mass
+AV,Antiphon verse,Office
+BD,Benedicamus domino,Mass/Office
+BNMT,Benedictiones in the matutinum service,Old Hispanic
+Ca,Canticle,Mass/Office
+Cap,Capitulum,Office
+CaV,Canticle verse,Mass
+CFP,Ad confractionem panis (Old Hispanic Mass),Old Hispanic
+CLMO,Clamores (Old Hispanic Office),Old Hispanic
+Cm,Communion,Mass
+CmV,Communion verse,Mass
+Cr,Credo,Mass
+D,Dramatic element (used for items of the liturgical drama that are not otherwise rubricked),Office
+Gl,Gloria,Mass
+Gr,Gradual,Mass
+GrV,Gradual verse,Mass
+H,Hymn and hymn verse,Office
+HV,"Hymn verse (in future, please use the ""H"" hymn genre with verses within the same record separated by | lines)",Office
+HYMNV,"Interspersed, additional verse in Old-Hispanic hymn",Old Hispanic
+I,Invitatory antiphon,Office
+In,Introit,Mass
+InR,Versus ad repetendum for the introit,Mass
+InV,Introit verse,Mass
+IP,Invitatory psalm (when written out and notated),Office
+Ite,Ite missa est,Mass
+Ky,Kyrie,Mass
+L,Lesson (when written out and notated),Mass/Office
+LDMT,Laudes in the matutinum service (Old Hispanic),Old Hispanic
+LDMTV,Verse for the Laudes in the matutinum service,Old Hispanic
+LDOF,Laudes (Old-Hispanic office),Old Hispanic
+LDOFV,Verse for the Laudes (Old-Hispanic office),Old Hispanic
+LDS,Laudes (Old-Hispanic Mass),Old Hispanic
+LDSV,Verse for the Laudes (Old-Hispanic mass),Old Hispanic
+Li,Litany,Mass/Office
+LiV,Litany verse,Mass/Office
+MSR,Miserationes (Old Hispanic),Old Hispanic
+MSRV,Verse for the Miserationes (Old Hispanic),Old Hispanic
+Of,Offertory,Mass
+OfV,Offertory verse,Mass
+PAC,Ad pacem (Old Hispanic),Old Hispanic
+Pn,Pater noster,Mass
+Pr,Prefatio (when written out and notated),Mass
+PRCS,Preces (Old Hispanic),Old Hispanic
+PRCSV,Verse for the Preces (Old Hispanic),Old Hispanic
+PRLG,Praelegendum (Old Hispanic),Old Hispanic
+PRLGV,Verse for the Praelegendum (Old Hispanic),Old Hispanic
+PS,Psalm,Office
+PSLM,Psalmus (Old Hispanic),Old Hispanic
+PSLMV,Verse for the Psalmus (Old Hispanic),Old Hispanic
+R,Responsory,Office
+RS,Responsorium (Old Hispanic),Old Hispanic
+RSV,Verse for the Responsorium (Old Hispanic),Old Hispanic
+Sa,Sanctus,Mass
+SCR,Sacrificium (Old Hispanic),Old Hispanic
+SCRV,Verse for the Sacrificium (Old Hispanic),Old Hispanic
+SNO,Sono/Sonus (Old Hispanic),Old Hispanic
+SNOV,Sono verse (Old Hispanic),Old Hispanic
+Sq,Sequence,Mass
+Tc,Tract,Mass
+TcV,Tract verse,Mass
+Tp,Trope,Mass/Office
+V,Responsory verse,Office
+Va,Varia,Mass/Office
+VaHW,Varia within Holy Week,Mass/Office
+W,Versicle,Office
+[?],Unknown/Ambiguous,Mass
+[?],Unknown/Ambiguous,Office
+[GV],Verse of a Mass chant (a generic code used in the earliest Cantus indices),Mass
+[G],Mass chant (a generic code used in the earliest Cantus indices),Mass
+[MO],Mass Ordinary (a generic code used in the earliest Cantus indices),Mass
+[M],Miscellaneous (a generic code used in the earliest Cantus indices),Office
